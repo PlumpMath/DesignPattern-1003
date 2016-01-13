@@ -1,0 +1,5 @@
+D:\GitHub\DesignPattern\SimpleFactory\SimpleFactoryDemo\SimpleFactoryDemo\bin\Debug\SimpleFactoryDemo.exe.config
+D:\GitHub\DesignPattern\SimpleFactory\SimpleFactoryDemo\SimpleFactoryDemo\bin\Debug\SimpleFactoryDemo.exe
+D:\GitHub\DesignPattern\SimpleFactory\SimpleFactoryDemo\SimpleFactoryDemo\bin\Debug\SimpleFactoryDemo.pdb
+D:\GitHub\DesignPattern\SimpleFactory\SimpleFactoryDemo\SimpleFactoryDemo\obj\Debug\SimpleFactoryDemo.exe
+D:\GitHub\DesignPattern\SimpleFactory\SimpleFactoryDemo\SimpleFactoryDemo\obj\Debug\SimpleFactoryDemo.pdb
